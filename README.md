@@ -22,7 +22,7 @@
 
   ## Community
 
-  Join the Discord: [discord.gg/YOUR_INVITE](https://discord.gg/YOUR_INVITE)
+  Join the Discord: https://discord.gg/eTQZDGNE
 
   ---
 
